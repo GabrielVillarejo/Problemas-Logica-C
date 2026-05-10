@@ -29,6 +29,7 @@ Aqui listo os problemas resolvidos para facilitar a busca por tema:
 | Plataforma | ID | Título | Solução | Status |
 | :--- | :---: | :--- | :---: | :---: |
 | 🏛️ TheHuxley | 3362 | A fórmula de Janaína | [C](./TheHuxley/3362.c) | done |
+| 🏛️ TheHuxley | 3361 | Contar Pulando Múltiplos | [C](./TheHuxley/3361.c) | done |
 
 > **Legenda:** Os exercícios estão resolvidos na ordem em que os fiz.
 ---
