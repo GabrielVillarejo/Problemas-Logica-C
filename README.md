@@ -36,6 +36,7 @@ Aqui listo os problemas resolvidos para facilitar a busca por tema:
 | TheHuxley | 4279 | 10 primeiros multiplos | [C](./TheHuxley/4279.c) | done |
 | TheHuxley | 4279 | A escadinha mágica | [C](./TheHuxley/2457.c) | done |
 | TheHuxley | 0047 | Propriedade do 3025 | [C](./TheHuxley/0047.c) | done |
+| TheHuxley | 0481 | Divisores de X | [C](./TheHuxley/0481.c) | done |
 
 > **Legenda:** Os exercícios estão resolvidos na ordem em que os fiz.
 ---
