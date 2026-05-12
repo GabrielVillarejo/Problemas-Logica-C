@@ -32,6 +32,7 @@ Aqui listo os problemas resolvidos para facilitar a busca por tema:
 | TheHuxley | 3361 | Contar Pulando Múltiplos | [C](./TheHuxley/3361.c) | done |
 | TheHuxley | 1088 | Leia vários números | [C](./TheHuxley/1088.c) | done |
 | TheHuxley | 2749 | Og | [C](./TheHuxley/2749.c) | done |
+| TheHuxley | 1087 | 100 primeiros números naturais | [C](./TheHuxley/1087.c) | done |
 
 > **Legenda:** Os exercícios estão resolvidos na ordem em que os fiz.
 ---
