@@ -39,6 +39,7 @@ Aqui listo os problemas resolvidos para facilitar a busca por tema:
 | TheHuxley | 0481 | Divisores de X | [C](./TheHuxley/0481.c) | done |
 | TheHuxley | 3419 | Série de Fibonacci | [C](./TheHuxley/3419.c) | done |
 | TheHuxley | 0396 | Abaixo a poluição | [C](./TheHuxley/0396.c) | done |
+| TheHuxley | 1262 | L3Q2 - NOMs | [C](./TheHuxley/1262.c) | done |
 
 > **Legenda:** Os exercícios estão resolvidos na ordem em que os fiz.
 ---
