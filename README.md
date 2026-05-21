@@ -41,6 +41,7 @@ Aqui listo os problemas resolvidos para facilitar a busca por tema:
 | TheHuxley | 0396 | Abaixo a poluição | [C](./TheHuxley/0396.c) | done |
 | TheHuxley | 1262 | L3Q2 - NOMs | [C](./TheHuxley/1262.c) | done |
 | TheHuxley | 0696 | Quantas vezes x apareceu? | [C](./TheHuxley/0696.c) | done |
+| TheHuxley | 0072 | Inverso | [C](./TheHuxley/0072.c) | done |
 
 > **Legenda:** Os exercícios estão resolvidos na ordem em que os fiz.
 ---
